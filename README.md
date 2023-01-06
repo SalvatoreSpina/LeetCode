@@ -2,7 +2,7 @@
 
 Just a wrapper repository for some of the Leetcode challeges I completed. I'm not a competitive programmer, I just like to solve problems and learn new things.
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/SalvatoreSpina?theme=dark&font=Krub&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sasso_Stark?theme=dark&font=Krub&ext=activity)
 
 ## Disclaimer
 
